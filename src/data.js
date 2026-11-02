@@ -242,7 +242,7 @@ export const projects = [
 export const experiences = [
   {
     year: '2026',
-    org: 'LSP',
+    org: 'Training LSP',
     title: 'Analisis Senior Rekrutmen Dan Seleksi SDM',
     desc: 'Completed training focused on developing job descriptions, individual performance indicators, organizational structures, and standard operating procedures, as well as managing recruitment, selection, job offers, employee orientation, and learning and development needs.',
     tags: ['Human Resource Management', 'Job Analysis', 'Learning & Development','Recruitment & Selection']
